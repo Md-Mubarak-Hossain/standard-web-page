@@ -13,19 +13,20 @@
 }
 
 .imagee-button {
-    font-size: 20px;
-
+    font-size: 12px;
+    border-radius: 20px;
     text-align: center;
     text-decoration: none;
     margin: 5px;
     padding: 10px 20px;
-    background-color: rgb(230, 99, 6);
+    background-color: rgb(224, 133, 68);
     color: aliceblue;
 }
 
 .imagee-button:hover {
     text-decoration: underline 2px solid red;
     color: blue;
+    background-color: white;
 }
 
 .images {
