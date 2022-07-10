@@ -1,12 +1,35 @@
 .main {
     font-size: 0;
-    margin: 0;
+    margin: 0 0 10px 0;
     width: 100%;
-    background-color: rgb(226, 237, 237);
-    height: 700px;
+
+    height: fit-content;
 }
 
 .content {
     font-size: initial;
-    margin: 15px;
+    margin: 0 15px;
+    padding: 4px;
+}
+
+.imagee-button {
+    font-size: 20px;
+
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: rgb(230, 99, 6);
+    color: aliceblue;
+}
+
+.imagee-button:hover {
+    text-decoration: underline 2px solid red;
+    color: blue;
+}
+
+.images {
+    width: 18%;
+    height: 150px;
+    margin: 10px;
 }
