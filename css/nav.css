@@ -1,0 +1,91 @@
+body {
+    font-family: 'Open Sans',
+        sans-serif;
+    font-family: 'Pacifico',
+        cursive;
+    font-family: 'Poppins',
+        sans-serif;
+}
+
+#hatbazar {
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: left;
+    margin-right: 480px;
+}
+
+.hatbazar-heading {
+    margin: 2px;
+}
+
+.hatbazar {
+
+
+    display: inline-block;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+
+}
+
+
+.header {
+    display: flex;
+    font-size: 0;
+    margin: 0px;
+    height: 100px;
+    background-color: rgb(252, 189, 167);
+    color: aliceblue;
+}
+
+.image {
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    display: block;
+    margin-bottom: 4px;
+
+
+}
+
+.nav {
+
+    font-size: 12px;
+    text-align: center;
+    font-weight: 400;
+    display: inline-block;
+}
+
+.ul {
+    display: flex;
+}
+
+.list {
+
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.link-button {
+    text-align: center;
+    margin: 30px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.footer {
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+
+.footer .nav {
+
+    margin-top: 20px;
+}
+
+.link-button:hover {
+    text-decoration: underline 2px solid red;
+    color: blue;
+}

@@ -1,0 +1,12 @@
+.main {
+    font-size: 0;
+    margin: 0;
+    width: 100%;
+    background-color: rgb(226, 237, 237);
+    height: 700px;
+}
+
+.content {
+    font-size: initial;
+    margin: 15px;
+}
